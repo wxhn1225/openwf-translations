@@ -18,6 +18,8 @@ dict = {
 	pos: `Position`,
 	tp_submit: `Teleport To`,
 	custom: `Custom`,
+	marker: `|TYPE| in |DIST|m`,
+	marker_unk: `Marker`,
 	marker_obj: `Objective`,
 	marker_target: `Target`,
 	marker_surcap: `Life Support Capsule`,
